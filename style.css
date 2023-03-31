@@ -1,5 +1,34 @@
 nav ul {
-  color: #3289CA;
+  background-color: #3289CA;
+  color: #000;
+  font-family: 'Monospace', sans-serif;
+  font-weight: 400;
+  font-size: 13px;
+  display: inline-block;
+  width: 50px;
+}
+
+p { 
+}
+
+ul {
+}
+
+ol {
+}
+
+h1 {
+}
+
+header {
+}
+
+body {
+}
+
+footer {
+  background-color: #3289CA;
+  color: #000;
   font-family: 'Monospace', sans-serif;
   font-weight: 400;
   font-size: 13px;
