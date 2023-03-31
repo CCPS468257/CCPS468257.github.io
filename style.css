@@ -10,6 +10,8 @@ nav ul {
   height: 50px;
   a:link: #000;
   a:visited: #004;
+  position: relative;
+  z-index: 1;
 }
 
 p { 
@@ -41,4 +43,6 @@ footer {
   width: 50px;
   a:link: #000;
   a:visited: #004;
+  position: relative;
+  z-index: 1;
 }
