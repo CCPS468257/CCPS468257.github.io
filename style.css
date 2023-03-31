@@ -1,1 +1,5 @@
-
+li {
+  border: 2px solid; 
+  margin: 3px 4px;
+  color: #3289CA;
+}
