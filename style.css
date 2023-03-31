@@ -1,5 +1,8 @@
-ul {
-  border: 2px solid; 
-  margin: 3px 4px;
+nav ul {
   color: #3289CA;
+  font-family: 'Monospace', sans-serif;
+  font-weight: 400;
+  font-size: 13px;
+  display: inline-block;
+  width: 50px;
 }
