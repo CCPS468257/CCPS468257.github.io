@@ -5,7 +5,10 @@ nav ul {
   font-weight: 400;
   font-size: 13px;
   display: inline-block;
-  width: 50px;
+  width: auto;
+  height: 50px;
+  a:link: #000;
+  a:visited: #004;
 }
 
 p { 
@@ -34,4 +37,6 @@ footer {
   font-size: 13px;
   display: inline-block;
   width: 50px;
+  a:link: #000;
+  a:visited: #004;
 }
