@@ -16,21 +16,31 @@ nav ul, nav li {
 }
 
 p { 
+  color: black;
+  width: auto;
 }
 
 ul {
+  color: grey;
+  width: auto;
 }
 
 ol {
+  color: grey;
 }
 
 h1 {
+  text-weight: bold;
+  color: grey;
 }
 
 header {
+  text-weight: bold;
+  color: black;
 }
 
 body {
+  color: black;
 }
 
 footer {
