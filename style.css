@@ -1,4 +1,41 @@
-nav ul, nav li {
+nav, li {
+  display: inline;
+  width: auto;
+  position: fixed;
+  padding: 5px 6px;
+  margin: 3px 4px;
+  background-color: #CBE7FF;
+  color: #8EA4B8;
+  border: #97CAF7;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* nav ul, nav li {
   background-color: #3289CA;
   color: #000;
   font-family: 'Monospace', sans-serif;
@@ -57,3 +94,4 @@ footer {
   position: relative;
   z-index: 1;
 }
+*/
